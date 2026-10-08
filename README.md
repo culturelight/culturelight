@@ -18,6 +18,4 @@ Here I share my technology experiments and creative work.
 - [60 Cities, 60 Adventures](https://github.com/culturelight/60-cities-60-adventures) — a full-color world adventure for ages 7+, with a sample.
 - [邏輯的陷阱 / The Traps of Logic](https://github.com/culturelight/the-traps-of-logic) — a Traditional Chinese book manuscript with a sample.
 
-Book illustrations are created with AI tools and arranged by the author; each repository says so in its own copyright notes.
-
 Connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-hui-b321548a).
