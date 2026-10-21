@@ -4,8 +4,6 @@ IT infrastructure leader focused on governance, cloud modernization, and respons
 
 Personal experiments in AI tools, prompt design, visual communication, and creative publishing. Shared independently; views and projects do not represent my employer.
 
-[Professional background and writing on LinkedIn](https://www.linkedin.com/in/brandon-hui-b321548a/).
-
 ## AI tools and prompt specifications
 
 - [Tool Evaluator Agent](https://github.com/culturelight/tool-evaluator-agent) — structured evaluations of tools, costs, benefits, and governance, with a worked example.
