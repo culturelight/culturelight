@@ -15,8 +15,6 @@ Here I share my technology experiments and creative work.
 ## Books
 
 - [My First STEM Coloring Book](https://github.com/culturelight/my-first-stem-coloring-book) — 32 STEM topics for ages 5–7, with a four-topic sample.
-- [Amazing Animals A to Z](https://github.com/culturelight/amazing-animals-a-z) — a coloring and learning book for ages 4+, with an A–E sample.
 - [60 Cities, 60 Adventures](https://github.com/culturelight/60-cities-60-adventures) — a full-color world adventure for ages 7+, with a sample.
-- [邏輯的陷阱 / The Traps of Logic](https://github.com/culturelight/the-traps-of-logic) — a Traditional Chinese book manuscript with a sample.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-hui-b321548a).
